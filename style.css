@@ -1,0 +1,50 @@
+*
+{
+    background-color: black;
+    
+}
+.plus {
+    color:white;
+}
+
+.plus {
+    color:white;
+}
+
+.minus {
+    color:white;
+}
+
+.equal {
+    color:white;
+}
+
+.divide {
+    color:white;
+}
+.mult {
+    color:white;
+}
+
+#result {
+    color: #dcad76;
+}
+#first-number {
+    color: #dcad76;
+}
+::placeholder {
+    color: #dcad76;
+}
+
+#second-number {
+    color: #dcad76;
+}
+::placeholder {
+    color: #dcad76;
+}
+
+
+#result {
+    width: 110px;
+    height: 50px;
+}
